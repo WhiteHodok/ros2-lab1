@@ -1,0 +1,3 @@
+[console_scripts]
+publisher_node = atp221_assignment.publisher_node:main
+subscriber_node = atp221_assignment.subscriber_node:main

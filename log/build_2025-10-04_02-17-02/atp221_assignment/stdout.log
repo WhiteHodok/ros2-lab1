@@ -1,0 +1,39 @@
+running egg_info
+creating ../../build/atp221_assignment/atp221_assignment.egg-info
+writing ../../build/atp221_assignment/atp221_assignment.egg-info/PKG-INFO
+writing dependency_links to ../../build/atp221_assignment/atp221_assignment.egg-info/dependency_links.txt
+writing entry points to ../../build/atp221_assignment/atp221_assignment.egg-info/entry_points.txt
+writing requirements to ../../build/atp221_assignment/atp221_assignment.egg-info/requires.txt
+writing top-level names to ../../build/atp221_assignment/atp221_assignment.egg-info/top_level.txt
+writing manifest file '../../build/atp221_assignment/atp221_assignment.egg-info/SOURCES.txt'
+reading manifest file '../../build/atp221_assignment/atp221_assignment.egg-info/SOURCES.txt'
+writing manifest file '../../build/atp221_assignment/atp221_assignment.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/user/ros2_ws/build/atp221_assignment/build
+creating /home/user/ros2_ws/build/atp221_assignment/build/lib
+creating /home/user/ros2_ws/build/atp221_assignment/build/lib/atp221_assignment
+copying atp221_assignment/__init__.py -> /home/user/ros2_ws/build/atp221_assignment/build/lib/atp221_assignment
+copying atp221_assignment/publisher_node.py -> /home/user/ros2_ws/build/atp221_assignment/build/lib/atp221_assignment
+copying atp221_assignment/subscriber_node.py -> /home/user/ros2_ws/build/atp221_assignment/build/lib/atp221_assignment
+running install
+running install_lib
+creating /home/user/ros2_ws/install/atp221_assignment/lib/python3.12/site-packages/atp221_assignment
+copying /home/user/ros2_ws/build/atp221_assignment/build/lib/atp221_assignment/__init__.py -> /home/user/ros2_ws/install/atp221_assignment/lib/python3.12/site-packages/atp221_assignment
+copying /home/user/ros2_ws/build/atp221_assignment/build/lib/atp221_assignment/publisher_node.py -> /home/user/ros2_ws/install/atp221_assignment/lib/python3.12/site-packages/atp221_assignment
+copying /home/user/ros2_ws/build/atp221_assignment/build/lib/atp221_assignment/subscriber_node.py -> /home/user/ros2_ws/install/atp221_assignment/lib/python3.12/site-packages/atp221_assignment
+byte-compiling /home/user/ros2_ws/install/atp221_assignment/lib/python3.12/site-packages/atp221_assignment/__init__.py to __init__.cpython-312.pyc
+byte-compiling /home/user/ros2_ws/install/atp221_assignment/lib/python3.12/site-packages/atp221_assignment/publisher_node.py to publisher_node.cpython-312.pyc
+byte-compiling /home/user/ros2_ws/install/atp221_assignment/lib/python3.12/site-packages/atp221_assignment/subscriber_node.py to subscriber_node.cpython-312.pyc
+running install_data
+creating /home/user/ros2_ws/install/atp221_assignment/share/ament_index
+creating /home/user/ros2_ws/install/atp221_assignment/share/ament_index/resource_index
+creating /home/user/ros2_ws/install/atp221_assignment/share/ament_index/resource_index/packages
+copying resource/atp221_assignment -> /home/user/ros2_ws/install/atp221_assignment/share/ament_index/resource_index/packages
+copying package.xml -> /home/user/ros2_ws/install/atp221_assignment/share/atp221_assignment
+running install_egg_info
+Copying ../../build/atp221_assignment/atp221_assignment.egg-info to /home/user/ros2_ws/install/atp221_assignment/lib/python3.12/site-packages/atp221_assignment-0.0.0-py3.12.egg-info
+running install_scripts
+Installing publisher_node script to /home/user/ros2_ws/install/atp221_assignment/lib/atp221_assignment
+Installing subscriber_node script to /home/user/ros2_ws/install/atp221_assignment/lib/atp221_assignment
+writing list of installed files to '/home/user/ros2_ws/build/atp221_assignment/install.log'
